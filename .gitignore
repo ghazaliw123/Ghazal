@@ -1,0 +1,36 @@
+# فایل‌های خودکار نادیده گرفتن شده
+
+# فایل‌های داده
+metrics.json
+ddos_analysis.png
+
+# فایل‌های Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# محیط مجازی
+venv/
+env/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
